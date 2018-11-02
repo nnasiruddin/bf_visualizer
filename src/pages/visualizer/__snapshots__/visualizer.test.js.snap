@@ -1,0 +1,137 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Visualizer rendering test should render Dataset Page component correctly 1`] = `
+<div
+  className="visualize-main"
+>
+  <div>
+    <div
+      className="visualize-header"
+    >
+      <h2>
+        Brain Fuck Visualizer
+      </h2>
+    </div>
+    <div
+      className="container"
+    >
+      <div
+        className="row"
+      >
+        <div
+          className="col-xs-4"
+        >
+          <h3>
+            Data:
+          </h3>
+        </div>
+      </div>
+      <div
+        className="row"
+      >
+        <div
+          className="col-xs-10"
+        >
+          <div
+            onKeyDown={[Function]}
+          >
+            <div
+              style={
+                Object {
+                  "overflow": "visible",
+                  "width": 0,
+                }
+              }
+            >
+              <div
+                aria-label="grid"
+                aria-readonly={true}
+                className="ReactVirtualized__Grid grid"
+                onScroll={[Function]}
+                role="grid"
+                style={
+                  Object {
+                    "WebkitOverflowScrolling": "touch",
+                    "boxSizing": "border-box",
+                    "direction": "ltr",
+                    "height": 62,
+                    "overflowX": "auto",
+                    "overflowY": "hidden",
+                    "position": "relative",
+                    "width": 0,
+                    "willChange": "transform",
+                  }
+                }
+                tabIndex={0}
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="row"
+      >
+        <div
+          className="col-xs-10"
+        />
+      </div>
+    </div>
+    <div>
+      <div
+        className="visualize-form"
+      >
+        <div
+          className="container"
+        >
+          <div
+            className="row"
+          >
+            <div
+              className="col-xs-10"
+            >
+              <form>
+                <div
+                  className="form-group"
+                >
+                  <label
+                    className="control-label"
+                    htmlFor="visualizeScript"
+                  >
+                    Script
+                  </label>
+                  <textarea
+                    className="form-control"
+                    id="visualizeScript"
+                    onChange={[Function]}
+                    placeholder="Enter Script Here..."
+                  />
+                </div>
+              </form>
+            </div>
+          </div>
+          <div
+            className="row"
+          >
+            <div
+              className="col-xs-3"
+            >
+              <div
+                className="visualize-footer"
+              >
+                <button
+                  className="btn btn-default"
+                  disabled={false}
+                  onClick={[Function]}
+                  type="button"
+                >
+                  Execute Script
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
