@@ -1,4 +1,4 @@
-##Brief Explanation
+## Brief Explanation
 
 I did this project as a coding challenge, this will visualize a Brain Fuck program execution. This program depends on an endpoint returning proper step data which is not controlled by me. So if this suddenly breaks please check if the Api works fine.
 
