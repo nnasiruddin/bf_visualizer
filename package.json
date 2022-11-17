@@ -8,7 +8,7 @@
     "react-bootstrap": "^0.32.4",
     "react-dom": "^16.6.0",
     "react-redux": "^5.1.0",
-    "react-scripts": "2.1.1",
+    "react-scripts": "2.1.8",
     "react-virtualized": "^9.21.0",
     "redux": "^4.0.1",
     "redux-immutable-state-invariant": "^2.1.0",
